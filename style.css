@@ -96,8 +96,8 @@ nav ul li a:hover::after{
     flex-basis: 35%;
 }
 .about-col-1 img{
-    width: 100%;
-    border-radius: 15px;
+    width: 50%;
+    border-radius: 30px;
     padding: auto;
 }
 .about-col-2{
